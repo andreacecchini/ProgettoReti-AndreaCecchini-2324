@@ -22,7 +22,7 @@ Per eseguire il server, segui questi passaggi:
 
 1. **Clona il repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/andreacecchini/ProgettoReti-AndreaCecchini-2324.git
    cd simple-web-server
    ```
 
