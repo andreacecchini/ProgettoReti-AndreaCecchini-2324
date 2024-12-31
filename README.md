@@ -37,6 +37,6 @@ Per eseguire il server, segui questi passaggi:
 
 ## Funzionalità
 
-- Il server serve file statici dalla directory `src/static`.
+- Il server serve file statici dalla directory `static`.
 - Può gestire più richieste simultanee.
 - Supporta la fornitura di file HTML, CSS e immagini.
