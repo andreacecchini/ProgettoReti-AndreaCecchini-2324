@@ -16,8 +16,6 @@ Esecuzione:
     - È possibile specificare l'indirizzo host e la porta tramite gli argomenti '--host' e '--port'.
     - Il server può essere interrotto con un segnale SIGINT(Ctrl+C), che chiama la funzione signal_handler per chiudere il server in modo pulito.
 """
-import datetime
-from email.utils import formatdate
 from urllib.parse import unquote, urlparse
 from socketserver import ThreadingTCPServer
 from http.server import BaseHTTPRequestHandler
