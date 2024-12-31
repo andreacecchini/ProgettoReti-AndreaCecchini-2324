@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Questo script implementa un semplice client HTTP utilizzando le librerie standard di Python.
+Questo script implementa un semplice client HTTP per il web server del progetto.
 """
 
 
