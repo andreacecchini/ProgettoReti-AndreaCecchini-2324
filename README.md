@@ -1,4 +1,4 @@
-# Server Web Semplice
+# ProgettoReti-AndreaCecchini-2324
 
 Questo progetto implementa un semplice server web in Python capace di servire file statici come HTML, CSS e immagini. Il
 server gestisce richieste HTTP GET di base e può gestire più richieste simultanee.
@@ -6,7 +6,7 @@ server gestisce richieste HTTP GET di base e può gestire più richieste simulta
 ## Struttura del Progetto
 
 ```
-simple-web-server
+ProgettoReti-AndreaCecchini-2324
 │── http_server.py       # Implementazione del server web
 │── http_client.py       # Implementazione di un client HTTP per testare il server
 │── static
@@ -23,7 +23,7 @@ Per eseguire il server, segui questi passaggi:
 1. **Clona il repository**:
    ```
    git clone https://github.com/andreacecchini/ProgettoReti-AndreaCecchini-2324.git
-   cd simple-web-server
+   cd ProgettoReti-AndreaCecchini-2324
    ```
 
 2. **Esegui il server**:
