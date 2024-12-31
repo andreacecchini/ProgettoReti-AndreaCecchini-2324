@@ -7,7 +7,8 @@ server gestisce richieste HTTP GET di base e può gestire più richieste simulta
 
 ```
 simple-web-server
-│── http_server.py       # Implementazione del semplice server web
+│── http_server.py       # Implementazione del server web
+│── http_client.py       # Implementazione di un client HTTP per testare il server
 │── static
 │       ├── index.html       # Homepage del server web
 │       ├── styles.css       # Stili CSS per il documento HTML
